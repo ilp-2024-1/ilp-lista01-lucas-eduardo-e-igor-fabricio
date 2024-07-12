@@ -23,13 +23,13 @@
 # valores de notas, realize o cálculo da média aritmética e em seguida exiba os três
 # valores digitados pelo usuário e o resultado do cálculo.
 
-n1 = float(input("Digite o valor da primeira nota: "))
-n2 = float(input("Digite o valor da segunda nota: "))
-n3 = float(input("Digite o valor da terceira nota: "))
+# n1 = float(input("Digite o valor da primeira nota: "))
+# n2 = float(input("Digite o valor da segunda nota: "))
+# n3 = float(input("Digite o valor da terceira nota: "))
 
-ma = (n1+n2+n3)/3
+# ma = (n1+n2+n3)/3
 
-print(f"Média aritimética = {ma:.2f} \n As notas foram: {n1}, {n2}, {n3}")
+# print(f"Média aritimética = {ma:.2f} \n As notas foram: {n1}, {n2}, {n3}")
 
 
 # 7. Calculadora de Média Ponderada: Solicite ao usuário para que ele insira os
